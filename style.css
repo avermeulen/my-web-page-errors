@@ -1,0 +1,15 @@
+.block {
+	width: 10em;
+	padding: 1em;
+	border: 1px solid;
+	margin: 1em;
+	float: left;
+}
+
+.blue {
+	background-color: darkturquoise;
+}
+
+.orange {
+	background-color: darkorange;
+}
